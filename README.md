@@ -64,14 +64,3 @@ A: No. It uses free, open-source models from HuggingFace.
 
 Q: Can I use this on my website or app?
 A: Yes! It's easy to adapt and deploy with Streamlit or other frameworks.
-
-Final tips:
-Add your actual Colab notebook link in the Run It section.
-
-Consider using consistent uppercase/lowercase formatting for tools and section headings.
-
-You might clarify how conversation memory works or if it persists between sessions (currently session only).
-
-If you add new features or external APIs, update the README accordingly.
-
-Let me know if you want me to help you create a polished formatted README file ready to use!

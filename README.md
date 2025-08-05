@@ -18,13 +18,15 @@ This AI-powered chatbot helps you find real-time news about any company. Just ty
 
 💻 Tools Used
 Purpose	Tool/Library
-Programming Language	Python
-News Search	duckduckgo_search
-Web Scraping	requests, BeautifulSoup4
-Text Summarization	facebook/bart-large-cnn via HuggingFace Transformers
-Typo Handling	fuzzywuzzy
-Chat Flow	Custom Python logic
-Memory	Python session variables (Colab memory)
+Programming Language	:  Python
+News Search	: duckduckgo_search
+Web Scraping : BeautifulSoup4
+Text Summarization	:  facebook/bart-large-cnn via HuggingFace Transformers
+Typo Handling	:  fuzzywuzzy
+Chat Flow :	Custom Python logic
+Memory : Python session variables (Colab memory)
+
+
 ⚙️ How It Works (Step-by-Step)
 👤 You enter a company name (e.g., “Netflix”).
 
